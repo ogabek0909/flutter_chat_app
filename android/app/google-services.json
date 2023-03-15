@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "536090020293",
+    "firebase_url": "https://presintation-2530e-default-rtdb.firebaseio.com",
+    "project_id": "presintation-2530e",
+    "storage_bucket": "presintation-2530e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536090020293:android:26ef17c2a6102b7d9963ac",
+        "android_client_info": {
+          "package_name": "com.example.presintation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536090020293-6b4r0nclq48jrjmlhhpr5ji06frusoig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lqwTIaPflwx-YCFYX-B4Ne0B0e-8rf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536090020293-6b4r0nclq48jrjmlhhpr5ji06frusoig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
