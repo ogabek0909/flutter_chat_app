@@ -18,6 +18,7 @@ class FirebaseData with ChangeNotifier{
     required this.date,
     required this.description,
     this.isDone = false,
+    
   });
 
   Future<void> toggleDoneStatus() async {
